@@ -1,0 +1,11 @@
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\bin\Debug\netcoreapp2.1\KanaKonverter I.deps.json
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\bin\Debug\netcoreapp2.1\KanaKonverter I.runtimeconfig.json
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\bin\Debug\netcoreapp2.1\KanaKonverter I.runtimeconfig.dev.json
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\bin\Debug\netcoreapp2.1\KanaKonverter I.dll
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\bin\Debug\netcoreapp2.1\KanaKonverter I.pdb
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\obj\Debug\netcoreapp2.1\KanaKonverter I.csproj.CoreCompileInputs.cache
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\obj\Debug\netcoreapp2.1\KanaKonverter I.AssemblyInfoInputs.cache
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\obj\Debug\netcoreapp2.1\KanaKonverter I.AssemblyInfo.cs
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\obj\Debug\netcoreapp2.1\KanaKonverter I.dll
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\obj\Debug\netcoreapp2.1\KanaKonverter I.pdb
+C:\Users\P\source\repos\CodeWars\KanaKonverter I\obj\Debug\netcoreapp2.1\KanaKonverter I.csprojAssemblyReference.cache

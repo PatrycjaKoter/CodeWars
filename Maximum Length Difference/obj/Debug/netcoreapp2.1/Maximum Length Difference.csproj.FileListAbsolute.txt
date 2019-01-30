@@ -1,0 +1,10 @@
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\bin\Debug\netcoreapp2.1\Maximum Length Difference.deps.json
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\bin\Debug\netcoreapp2.1\Maximum Length Difference.runtimeconfig.json
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\bin\Debug\netcoreapp2.1\Maximum Length Difference.runtimeconfig.dev.json
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\bin\Debug\netcoreapp2.1\Maximum Length Difference.dll
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\bin\Debug\netcoreapp2.1\Maximum Length Difference.pdb
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\obj\Debug\netcoreapp2.1\Maximum Length Difference.csproj.CoreCompileInputs.cache
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\obj\Debug\netcoreapp2.1\Maximum Length Difference.AssemblyInfoInputs.cache
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\obj\Debug\netcoreapp2.1\Maximum Length Difference.AssemblyInfo.cs
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\obj\Debug\netcoreapp2.1\Maximum Length Difference.dll
+C:\Users\P\source\repos\CodeWars\Maximum Length Difference\obj\Debug\netcoreapp2.1\Maximum Length Difference.pdb

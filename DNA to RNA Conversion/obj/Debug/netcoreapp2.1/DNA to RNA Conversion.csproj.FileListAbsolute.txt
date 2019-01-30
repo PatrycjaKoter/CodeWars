@@ -1,0 +1,11 @@
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\bin\Debug\netcoreapp2.1\DNA to RNA Conversion.deps.json
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\bin\Debug\netcoreapp2.1\DNA to RNA Conversion.runtimeconfig.json
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\bin\Debug\netcoreapp2.1\DNA to RNA Conversion.runtimeconfig.dev.json
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\bin\Debug\netcoreapp2.1\DNA to RNA Conversion.dll
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\bin\Debug\netcoreapp2.1\DNA to RNA Conversion.pdb
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\obj\Debug\netcoreapp2.1\DNA to RNA Conversion.csproj.CoreCompileInputs.cache
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\obj\Debug\netcoreapp2.1\DNA to RNA Conversion.AssemblyInfoInputs.cache
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\obj\Debug\netcoreapp2.1\DNA to RNA Conversion.AssemblyInfo.cs
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\obj\Debug\netcoreapp2.1\DNA to RNA Conversion.dll
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\obj\Debug\netcoreapp2.1\DNA to RNA Conversion.pdb
+C:\Users\P\source\repos\CodeWars\DNA to RNA Conversion\obj\Debug\netcoreapp2.1\DNA to RNA Conversion.csprojAssemblyReference.cache

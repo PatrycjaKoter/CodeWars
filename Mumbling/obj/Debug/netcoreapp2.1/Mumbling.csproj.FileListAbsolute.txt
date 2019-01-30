@@ -1,0 +1,10 @@
+C:\Users\P\source\repos\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.deps.json
+C:\Users\P\source\repos\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.runtimeconfig.json
+C:\Users\P\source\repos\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.runtimeconfig.dev.json
+C:\Users\P\source\repos\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.dll
+C:\Users\P\source\repos\CodeWars\Mumbling\bin\Debug\netcoreapp2.1\Mumbling.pdb
+C:\Users\P\source\repos\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.csproj.CoreCompileInputs.cache
+C:\Users\P\source\repos\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.AssemblyInfoInputs.cache
+C:\Users\P\source\repos\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.AssemblyInfo.cs
+C:\Users\P\source\repos\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.dll
+C:\Users\P\source\repos\CodeWars\Mumbling\obj\Debug\netcoreapp2.1\Mumbling.pdb

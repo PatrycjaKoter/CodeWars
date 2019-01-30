@@ -1,0 +1,11 @@
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\bin\Debug\netcoreapp2.1\Student's Final Grade.deps.json
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\bin\Debug\netcoreapp2.1\Student's Final Grade.runtimeconfig.json
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\bin\Debug\netcoreapp2.1\Student's Final Grade.runtimeconfig.dev.json
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\bin\Debug\netcoreapp2.1\Student's Final Grade.dll
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\bin\Debug\netcoreapp2.1\Student's Final Grade.pdb
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\obj\Debug\netcoreapp2.1\Student's Final Grade.csproj.CoreCompileInputs.cache
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\obj\Debug\netcoreapp2.1\Student's Final Grade.AssemblyInfoInputs.cache
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\obj\Debug\netcoreapp2.1\Student's Final Grade.AssemblyInfo.cs
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\obj\Debug\netcoreapp2.1\Student's Final Grade.dll
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\obj\Debug\netcoreapp2.1\Student's Final Grade.pdb
+C:\Users\P\source\repos\CodeWars\Student's Final Grade\obj\Debug\netcoreapp2.1\Student's Final Grade.csprojAssemblyReference.cache

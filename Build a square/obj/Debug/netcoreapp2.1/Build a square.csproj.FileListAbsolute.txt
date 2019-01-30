@@ -1,0 +1,11 @@
+C:\Users\P\source\repos\CodeWars\Build a square\bin\Debug\netcoreapp2.1\Build a square.deps.json
+C:\Users\P\source\repos\CodeWars\Build a square\bin\Debug\netcoreapp2.1\Build a square.runtimeconfig.json
+C:\Users\P\source\repos\CodeWars\Build a square\bin\Debug\netcoreapp2.1\Build a square.runtimeconfig.dev.json
+C:\Users\P\source\repos\CodeWars\Build a square\bin\Debug\netcoreapp2.1\Build a square.dll
+C:\Users\P\source\repos\CodeWars\Build a square\bin\Debug\netcoreapp2.1\Build a square.pdb
+C:\Users\P\source\repos\CodeWars\Build a square\obj\Debug\netcoreapp2.1\Build a square.csproj.CoreCompileInputs.cache
+C:\Users\P\source\repos\CodeWars\Build a square\obj\Debug\netcoreapp2.1\Build a square.AssemblyInfoInputs.cache
+C:\Users\P\source\repos\CodeWars\Build a square\obj\Debug\netcoreapp2.1\Build a square.AssemblyInfo.cs
+C:\Users\P\source\repos\CodeWars\Build a square\obj\Debug\netcoreapp2.1\Build a square.dll
+C:\Users\P\source\repos\CodeWars\Build a square\obj\Debug\netcoreapp2.1\Build a square.pdb
+C:\Users\P\source\repos\CodeWars\Build a square\obj\Debug\netcoreapp2.1\Build a square.csprojAssemblyReference.cache

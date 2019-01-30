@@ -1,0 +1,11 @@
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\bin\Debug\netcoreapp2.1\A Strange Trip to the Market.deps.json
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\bin\Debug\netcoreapp2.1\A Strange Trip to the Market.runtimeconfig.json
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\bin\Debug\netcoreapp2.1\A Strange Trip to the Market.runtimeconfig.dev.json
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\bin\Debug\netcoreapp2.1\A Strange Trip to the Market.dll
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\bin\Debug\netcoreapp2.1\A Strange Trip to the Market.pdb
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\obj\Debug\netcoreapp2.1\A Strange Trip to the Market.csprojAssemblyReference.cache
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\obj\Debug\netcoreapp2.1\A Strange Trip to the Market.csproj.CoreCompileInputs.cache
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\obj\Debug\netcoreapp2.1\A Strange Trip to the Market.AssemblyInfoInputs.cache
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\obj\Debug\netcoreapp2.1\A Strange Trip to the Market.AssemblyInfo.cs
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\obj\Debug\netcoreapp2.1\A Strange Trip to the Market.dll
+C:\Users\P\source\repos\CodeWars\A Strange Trip to the Market\obj\Debug\netcoreapp2.1\A Strange Trip to the Market.pdb
